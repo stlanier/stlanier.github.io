@@ -9,7 +9,7 @@ body {
 }
 
 p {
-    margin-bottom: 10px; 
+    margin-bottom: 10px;
     font-family: "Barlow Condensed", sans-serif;
     font-size: 20px;
 }
@@ -86,8 +86,18 @@ hr.star-primary:after {
 }
 
 .img-responsive {
+    background-size: contain;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+.img-brand {
+    max-width: 10%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    /* transform: translateY(+10%); */
+    /* background-size: contain; */
 }
 
 header {
@@ -97,8 +107,8 @@ header {
 }
 
 header .container {
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 10%;
+    padding-bottom: 5%;
 }
 
 header img {
@@ -143,9 +153,6 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top .navbar-brand {
-        max-width: 20%;
-        height: auto;
-        margin: 0px;
         border: 0px;
         padding-top: 0px;
         font-size: 2em;
@@ -155,20 +162,19 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top.navbar-shrink {
-        padding-bottom: 10px 0;
+        /* padding: 10px 0; */
 
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
-        max-width: 20%;
-        height: auto;
         font-size: 1.5em;
     }
 }
 
 .navbar {
-    padding-top: 20px;
-    padding-bottom: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /* vertical-align: middle; */
     text-transform: uppercase;
     font-family: "Barlow Condensed",Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
@@ -189,7 +195,11 @@ header .intro-text .skills {
 
 .navbar-default,
 .navbar-inverse {
-    border: 0px;
+    border: 10px;
+}
+
+.navbar-header {
+  /* position: relative; */
 }
 
 section {
