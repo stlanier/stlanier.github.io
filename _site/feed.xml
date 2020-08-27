@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator>
+  <link href="https://stlanier.github.io/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://stlanier.github.io/" rel="alternate" type="text/html" />
+  <updated>2020-08-27T13:03:52-07:00</updated>
+  <id>https://stlanier.github.io/</id>
+
+  
+    <title type="html">Stephen T. Lanier</title>
+  
+
+  
+    <subtitle>Stephen Thomas Lanier, data science, data analysis, python</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Project: Predicting Heart Disease (binary Classification)</title>
+      <link href="https://stlanier.github.io/" rel="alternate" type="text/html" title="Project: Predicting Heart Disease (binary Classification)" />
+      <published>2020-08-26T00:00:00-07:00</published>
+      <updated>2020-08-26T00:00:00-07:00</updated>
+      <id>https://stlanier.github.io/project:-predicting-heart-disease-(binary-classification)</id>
+      <content type="html" xml:base="https://stlanier.github.io/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Classification" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Github And Large Files</title>
+      <link href="https://stlanier.github.io/" rel="alternate" type="text/html" title="Github And Large Files" />
+      <published>2020-08-26T00:00:00-07:00</published>
+      <updated>2020-08-26T00:00:00-07:00</updated>
+      <id>https://stlanier.github.io/GitHub-and-large-files</id>
+      <content type="html" xml:base="https://stlanier.github.io/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Blog" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project: Predicting Housing Prices In King County</title>
+      <link href="https://stlanier.github.io/" rel="alternate" type="text/html" title="Project: Predicting Housing Prices In King County" />
+      <published>2020-08-25T00:00:00-07:00</published>
+      <updated>2020-08-25T00:00:00-07:00</updated>
+      <id>https://stlanier.github.io/project:-predicting-housing-prices-in-king-county</id>
+      <content type="html" xml:base="https://stlanier.github.io/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Linear Regression" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project: Exploring The Move Industry</title>
+      <link href="https://stlanier.github.io/" rel="alternate" type="text/html" title="Project: Exploring The Move Industry" />
+      <published>2020-08-24T00:00:00-07:00</published>
+      <updated>2020-08-24T00:00:00-07:00</updated>
+      <id>https://stlanier.github.io/project:-exploring-the-move-industry</id>
+      <content type="html" xml:base="https://stlanier.github.io/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Exploratory Data Analysis" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
